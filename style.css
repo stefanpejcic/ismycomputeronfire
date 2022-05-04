@@ -1,0 +1,12 @@
+body{
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    background: rgb(23, 22, 29);
+    color: white;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 60px;
+}
