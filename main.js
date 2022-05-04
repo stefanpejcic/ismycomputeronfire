@@ -14,7 +14,7 @@ var app = new Vue({
             var choice = Math.floor(Math.random() * 2)
             switch(choice){
                 case 0:
-                this.is.fire = "Probably not";
+                this.is.fire = "No, you idiot!";
                 break;
 
                 case 1:
